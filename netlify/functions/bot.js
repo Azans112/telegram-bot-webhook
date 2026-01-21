@@ -1,4 +1,4 @@
-const BOT_TOKEN = "7718337730:AAEMWnNxRvoE4GWEgSXL69A1BLERrqKX03s";
+const BOT_TOKEN = "8285172039:AAHnkCFzGssliNwPjQO4c6oNFkTzP9SS0hw";
 const ADMIN_ID = 7241621112;
 const VERIFY_URL = "https://harmonious-stroopwafel-0a6945.netlify.app/";
 const API = `https://api.telegram.org/bot${BOT_TOKEN}`;
